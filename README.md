@@ -1,0 +1,1 @@
+Thousands of animals are euthanized in shelters each day, including many that are otherwise healthy. One way to increase adoption rates is to improve online engagement with an animal’s photo. In this project, I build a machine learning model that predicts a photo’s popularity score using image quality signals and additional metadata features.
