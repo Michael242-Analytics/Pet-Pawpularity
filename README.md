@@ -73,5 +73,5 @@ All evaluated via 5-fold cross-validation RMSE. Best single model and a top-2 en
 
 Most metadata features have near-zero linear correlation with pawpularity. `label` (species) shows the strongest correlation (~-0.18), still weak. Pawpularity scores are heavily concentrated in the 20–40 range, which makes prediction outside that range harder.
 
-The takeaway from the project is that image metadata alone has limited predictive power — external signals like posting time or platform context likely account for a significant portion of engagement variance.
+The takeaway from the project is that image metadata alone has limited predictive power and other features would have more effect.
 ****
